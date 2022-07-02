@@ -124,3 +124,230 @@ So what better metaphor than the titanic?
 # Vision
 
 <!-- Transparency goes under trust; introspection goes under adaptation. -->
+
+---
+
+## Treating Process as the Enemy
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet: | | :droplet: | :droplet: | |
+
+---
+
+### :swimmer: Commit to a process
+
+### :swimmer: Start where you are
+
+### :swimmer: Process surfaces problems
+
+### :swimmer: Process can be adapted
+
+---
+
+## Too Rigid Process
+
+## (Oops)
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet: | | :droplet: | :droplet: | |
+
+---
+
+### :swimmer: Experiments
+
+### :swimmer: Gradual Adaptation
+
+### :swimmer: Reduced Pain = Buy-in
+
+---
+
+## "When will we be done?"
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet: | |  | :droplet: | :droplet: |
+
+---
+
+### :swimmer: Estimate &amp; Track
+
+### :swimmer: Respect timeboxes
+
+### :swimmer: You will run out; value first
+
+---
+
+## "Agile is Developers Being Lazy"
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+|  | |  | :droplet: |  |
+
+---
+
+### :swimmer: Work not done == Savings
+
+### :swimmer: Ruthless focus on value
+
+### :swimmer: Slow is steady, steady is fast
+
+### :swimmer: Play the long game
+
+---
+
+## PO Fiefdoms
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  | |  |  | :droplet: |
+
+<!-- 
+- Multiple backlogs
+- Multiple stakeholders to please
+- SMEs != POs
+-->
+---
+
+### :swimmer: Find the true PO
+
+### :swimmer: One Backlog
+
+### :swimmer: Make stakeholders talk
+
+---
+
+## Dev Silos
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  | :droplet: |  |  |  |
+
+---
+
+### :swimmer: Pairing / Mobbing
+
+### :swimmer: Knowledge sharing
+
+### :swimmer: Dev Roundtable
+
+### :swimmer: Prefer Teachers to Experts
+
+---
+
+## "Why are two devs working on this story?
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  | :droplet: | :droplet:  | :droplet:  |  |
+
+---
+
+### :swimmer: Demonstrate Cycle Time
+
+### :swimmer: Educate
+
+### :swimmer: Ask for Responsibility
+
+---
+
+## Quality Not Baked In
+
+## Technical Debt
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  |  |   |   |  |
+
+<!-- 
+Testing as a phase
+<br/>Lack of automation
+<br/>Mini waterfall sprints
+-->
+
+---
+
+### :swimmer: Focus on Automation
+
+### :swimmer: Swiss Cheese Approach
+
+### :swimmer: Estimate Debt Complexity
+
+### :swimmer: Definition of Done
+
+### :swimmer: Measure trends
+
+---
+
+## Authority vs. Leadership
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+|   | :droplet: | :droplet:  | :droplet:  | :droplet: |
+
+<!-- PO / SM as PM -->
+
+---
+
+### :swimmer: Common Goals / Charter
+
+### :swimmer: Promote Divergent Thinking
+
+### :swimmer: Lead by Example
+
+---
+
+## Not Enough Collaboration
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+|  :droplet: | :droplet: |   |   |  |
+
+---
+
+### :swimmer: Get everyone in the same room
+
+### :swimmer: Enable conversations
+
+### :swimmer: Seek feedback
+
+<!-- Three amigos, etc. -->
+
+---
+
+## Too Many Meetings
+
+## (Oops)
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+|  :droplet: | :droplet: |   | :droplet:  |  |
+
+---
+
+### :swimmer: Meetings with Purpose
+
+### :swimmer: No Mandatory Attendance
+
+### :swimmer: Radiate information
+
+### :swimmer: Demand Presence
+
+<!-- Book: Read this before our next meeting -->
+
+---
+
+## Stakeholder Time Constraints
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+|  :droplet: | :droplet: |   |   |  |
+
+---
+
+### :swimmer: Definition of Ready
+
+### :swimmer: Multiple Avenues of Feedback
+
+### :swimmer: Make Sign-off Painless
