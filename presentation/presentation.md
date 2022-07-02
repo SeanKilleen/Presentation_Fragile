@@ -351,3 +351,233 @@ Testing as a phase
 ### :swimmer: Multiple Avenues of Feedback
 
 ### :swimmer: Make Sign-off Painless
+
+---
+
+## Lack of Conflict
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+|   | :droplet: |   |  :droplet: |  |
+
+<!--
+Believe it or not, this is actually a bad thing.
+<br/>Conflict spectrum
+<br/>Radical Candor 
+-->
+
+---
+
+### :swimmer: Model Receiving Feedback First
+
+### :swimmer: Encourage Bold Retros
+
+### :swimmer: Check-ins
+
+### :swimmer: Embrace the uncomfortable
+
+---
+
+## Discouraging Slack Time
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  | :droplet: | :droplet:  |  :droplet: |  |
+
+---
+
+### :swimmer: Make spikes visible
+
+### :swimmer: Showcase Risk Reduction
+
+### :swimmer: Keep a list of wins
+
+<!-- Wins: things that the client may not think of but that spikes helped with -->
+
+---
+
+## Large Feedback Loops
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  | :droplet: |   |  | :droplet: |
+
+---
+
+### :swimmer: Identify Cycles
+
+### :swimmer: Maximize Improvement Chances
+
+---
+
+## Big Bang Deployments
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  |  |   |  | :droplet: |
+
+---
+
+### :swimmer: Create pipelines
+
+### :swimmer: Always. Be. Deploying
+
+### :swimmer: Insist on an env. for feedback
+
+### :swimmer: Integrate early
+
+---
+
+## Unsustainable Pace
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  |  | :droplet:  |  | :droplet: |
+
+---
+
+### :swimmer: Estimate
+
+### :swimmer: Link to Risk / Debt
+
+### :swimmer: Velocity != Value
+
+<!-- Comic: Technical debt cave / water -->
+
+---
+
+## Too much "on the right"
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  |  |   | :droplet: |  |
+
+---
+
+### :swimmer: Definition of Ready
+
+### :swimmer: Specification by Example
+
+### :swimmer: Consensus is key
+
+### :swimmer: Automate it
+
+---
+
+## Underestimating Complexity
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  |  | :droplet:  | :droplet: |  |
+
+---
+
+### :swimmer: Point for debt
+
+### :swimmer: Team Decides Points
+
+### :swimmer: Velocity is an output
+
+### :swimmer: The points aren't the point
+
+---
+
+## Large Chunks of Work
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  |  |   |  |  |
+
+---
+
+### :swimmer: Specification by Example
+
+### :swimmer: Understand value first
+
+### :swimmer: Perfect is the enemy
+
+### :swimmer: Let points be your guide
+
+---
+
+## Team Stops Improving
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+|   | :droplet: |   |  | :droplet: |
+
+---
+
+### :swimmer: Team introspection is key
+
+### :swimmer: Everything is an experiment
+
+### :swimmer: Psychological safety
+
+---
+
+## Velocity Obsession
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+| :droplet:  | :droplet: |   |  | :droplet: |
+
+---
+
+### :swimmer: Velocity = Speed + Direction
+
+### :swimmer: Impact maps
+
+### :swimmer: Release themes
+
+---
+
+## Forgetting to Celebrate
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+|   | :droplet: |   | :droplet: | :droplet: |
+
+---
+
+### :swimmer: Release celebration
+
+### :swimmer: Weekly / monthly award
+
+### :swimmer: Wall of Wins
+
+### :swimmer: Call out Achievements
+
+---
+
+## Micromanagement
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+|  :droplet: | :droplet: | :droplet:  | :droplet: | :droplet: |
+
+---
+
+### :swimmer: Understand driving concerns
+
+### :swimmer: Ask for space
+
+### :swimmer: When you get it, *deliver*
+
+---
+
+## Culture of Fear
+
+| Delivery | Growth | Freedom | Trust | Vision |
+| -------  | ----- | ------- | ------ | -------|
+|  :droplet: | :droplet: | :droplet:  | :droplet: | :droplet: |
+
+---
+
+### :swimmer: Empathy
+
+### :swimmer: Consistency
+
+### :swimmer: Ownership
+
+### :swimmer: Long-term Commitment
