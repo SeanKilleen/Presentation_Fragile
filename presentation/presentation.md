@@ -581,3 +581,32 @@ Believe it or not, this is actually a bad thing.
 ### :swimmer: Ownership
 
 ### :swimmer: Long-term Commitment
+
+---
+
+# Remember
+
+# First Principles
+
+[AgileManifesto.org](https://agilemanifesto.org)
+
+---
+<!-- _footer: "" -->
+![bg contain](./assets/images/whos-awesome-youre-awesome.jpg)
+
+---
+
+<style scoped>
+  ul {
+    padding: 0;
+    list-style: none;
+  }
+</style>
+<!-- _footer: "" -->
+![bg left 75%](./assets/images/spinning.gif)
+
+# <!--fit--> Thanks
+
+- :bird: [sjkilleen](https://twitter.com/sjkilleen)
+- :earth_americas: [SeanKilleen.com](https://seankilleen.com)
+- :briefcase: [Excella](https://excella.com)
