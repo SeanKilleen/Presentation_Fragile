@@ -8,9 +8,7 @@ class: invert
 ---
 # (Fr)agile
 
-## How Agile Falls Apart
-
-#### (And what you can do to hold it all together)
+#### How Agile Falls Apart<br/>(And What You Can Do to Keep it Together)
 
 [fragile.seankilleen.com](https://fragile.seankilleen.com)
 
@@ -134,6 +132,11 @@ So what better metaphor than the titanic?
 | :droplet: | | :droplet: | :droplet: | |
 
 ---
+<style scoped>
+h3{
+  text-transform: uppercase;
+}
+</style>
 
 ### :swimmer: Commit to a process
 
@@ -175,7 +178,7 @@ So what better metaphor than the titanic?
 
 ### :swimmer: Respect timeboxes
 
-### :swimmer: You will run out; value first
+### :swimmer: You _will_ run out; value _first_
 
 ---
 
@@ -236,7 +239,7 @@ So what better metaphor than the titanic?
 
 ---
 
-## "Why are two devs working on this story?
+## "Why are two devs working on this story?"
 
 | Delivery | Growth | Freedom | Trust | Vision |
 | -------  | ----- | ------- | ------ | -------|
@@ -562,7 +565,7 @@ Believe it or not, this is actually a bad thing.
 
 ### :swimmer: Ask for space
 
-### :swimmer: When you get it, *deliver*
+### :swimmer: When you get it, _deliver_
 
 ---
 
