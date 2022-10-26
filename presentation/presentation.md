@@ -14,14 +14,6 @@ class: invert
 
 ---
 <!-- _footer: "" -->
-<iframe
-width="100%" height="100%"
-src="https://www.youtube.com/embed/7Zw-BvKo0pI?rel=0&amp;controls=0&amp;showinfo=0&amp;start=0&end=30"
-frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-
----
-<!-- _footer: "" -->
 
 <iframe
 width="100%" height="100%"
