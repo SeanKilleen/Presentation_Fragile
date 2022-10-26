@@ -8,9 +8,7 @@ class: invert
 ---
 # (Fr)agile
 
-#### How Agile Falls Apart
-
-#### (And what you can do to hold it all together)
+#### How Agile Falls Apart<br/>(And What You Can Do to Keep it Together)
 
 [fragile.seankilleen.com](https://fragile.seankilleen.com)
 
