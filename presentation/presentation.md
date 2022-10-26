@@ -124,11 +124,6 @@ So what better metaphor than the titanic?
 | :droplet: | | :droplet: | :droplet: | |
 
 ---
-<style scoped>
-h3{
-  text-transform: uppercase;
-}
-</style>
 
 ### :swimmer: Commit to a process
 
@@ -600,7 +595,7 @@ Believe it or not, this is actually a bad thing.
 <!-- _footer: "" -->
 ![bg left 75%](./assets/images/spinning.gif)
 
-# <!--fit--> Thanks
+# <!--fit--> Thanks!
 
 - :bird: [sjkilleen](https://twitter.com/sjkilleen)
 - :earth_americas: [SeanKilleen.com](https://seankilleen.com)
